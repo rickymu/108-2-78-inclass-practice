@@ -1,0 +1,8 @@
+"0","studentTime<-c("
+"0","  ymd_hms(""2020-03-04T06:43:27Z""),	"
+"0","  ymd_hms(""2020-03-11 14:09:47"",tz=""Asia/Taipei""),	"
+"0","  ymd_hms(""2020-03-11 14:16:58""tz=""Asia/Taipei"")"
+"2","錯誤: unexpected symbol in:
+""  ymd_hms(""2020-03-11 14:09:47"",tz=""Asia/Taipei""),      
+  ymd_hms(""2020-03-11 14:16:58""tz""
+"
