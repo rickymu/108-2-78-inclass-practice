@@ -182,3 +182,11 @@ studentTime<-c(
 studentTime
 ```
 
+
+```{r}
+studentTime <- c(ymd_hms('2020-03-04T08:15:28Z'),
+                 ymd_hms('2020-03-11 16:11:43',tz="Asia/Taipei"),
+                 ymd_hms('2020-03-11 16:11:43',tz="Asia/Taipei"))
+studentTime
+```
+
